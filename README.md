@@ -412,7 +412,3 @@ function autoScroll() {
   	document.querySelector('.equals').addEventListener('click', function() {
     
 });
-  </script>
-</body>
-
-</html>
